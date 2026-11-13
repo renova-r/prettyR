@@ -1,5 +1,5 @@
 addxtabs<-function(x) {
- if(!is.list(x) || class(x[[1]]) != "xtab")
+ if(!is.list(x) || !identical(class(x[[1]]), "xtab"))
   stop("addxtabs adds a list of xtab results with equal numbers of columns")
  allrownames<-unlist(lapply(lapply(x,"[[","counts"),rownames))
  rowlabels<-sort(unique(allrownames))
