@@ -2,15 +2,17 @@
 
 Descriptive statistics, data reshaping, and HTML output for R.
 
-Renova 2.2.3.9001 updates the class check in `addxtabs()` for current R.
+Compatibility updates by Renova.
+
+Renova 2.2.3.9002 adds Renova attribution to the package description and README.
 
 ## Install
 
 ```r
 install.packages("remotes")
-remotes::install_github("renova-r/prettyR@renova-2.2.3.9001")
+remotes::install_github("renova-r/prettyR@renova-2.2.3.9002")
 ```
 
-[Release notes](NEWS.md) · [Renova package directory](https://github.com/renova-r/revival-catalog)
+[Changes](NEWS.md) · [Release and validation](https://github.com/renova-r/prettyR/releases/tag/renova-2.2.3.9002) · [Renova packages](https://github.com/renova-r/revival-catalog)
 
-prettyR by Jim Lemon and Philippe Grosjean. GPL (>= 2); see [COPYING](COPYING).
+Jim Lemon and Philippe Grosjean. GPL (>= 2); see [COPYING](COPYING).

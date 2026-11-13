@@ -1,5 +1,5 @@
 Package: prettyR
-Version: 2.2.3.9001
+Version: 2.2.3.9002
 Title: Pretty Descriptive Stats
 Date: 2019-04-08
 Author: Jim Lemon <drjimlemon@gmail.com>,
@@ -7,6 +7,7 @@ Author: Jim Lemon <drjimlemon@gmail.com>,
 Maintainer: Jim Lemon <drjimlemon@gmail.com>
 Description: Functions for conventionally formatting descriptive stats,
  reshaping data frames and formatting R output as HTML.
+ Compatibility updates by Renova.
 Imports: grDevices, stats, utils
 License: GPL (>= 2)
 NeedsCompilation: no

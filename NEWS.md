@@ -1,3 +1,7 @@
+# prettyR 2.2.3.9002
+
+- `DESCRIPTION`: "Compatibility updates by Renova." appended to `Description`; `Version` set to `2.2.3.9002`. `README.md` carries the same line. No code changes since 2.2.3.9001.
+
 # prettyR 2.2.3.9001
 
 Renova release, based on CRAN prettyR 2.2-3 (archived on CRAN 2026-04-15).
